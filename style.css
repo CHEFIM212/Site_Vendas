@@ -1,0 +1,57 @@
+html {
+    background-color: #D4421A;
+    width: 1000px;
+}
+
+.grade-produtos {
+    margin: 10%;
+    margin-top: 5%;
+    width: 100%;
+}
+
+h1 {
+    font-size: medium;
+}
+
+
+.logo {
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+
+td {
+    height: 400px;
+    width: 400px;
+    border: 1px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.img1 {
+    margin-left: 10%;
+    height: 60%;
+    width: 60%;
+    
+}
+.img2 {
+    margin-left: 10%;
+    height: 60%;
+    width: 60%;
+}
+
+.img3 {
+    margin-left: 10%;
+    height: 60%;
+    width: 60%;
+}
+
+.btn {
+    margin-left: 30%;
+    background-color: #F6432D;
+    color: white;
+    height: 25px;
+    width: 100px;
+    border-radius: 10px;
+}
